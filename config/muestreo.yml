@@ -1,0 +1,12 @@
+# Criterio de horarios y cupo de consultas (ver propuesta, sección 7)
+dias: [martes, miercoles, jueves]
+franjas:
+  pico_manana: {ventana: "07:00-09:00", salidas: ["07:30", "08:30"]}
+  valle_mediodia: {ventana: "11:00-15:00", salidas: ["12:00", "14:00"]}
+  pico_tarde: {ventana: "17:00-19:00", salidas: ["17:30", "18:30"]}
+cupo:
+  consultas_por_mes: 1000      # piso del cupo gratuito segun SKU; confirmar SKU de transito
+  tope_diario: 30
+  pares_por_mes: 150
+  piloto_pares: 50
+h3_resolucion: 9               # a fijar en el piloto (8 o 9)

@@ -1,0 +1,8 @@
+{
+  "title": "Brecha entre tiempo programado y observado en el transporte público del AMBA",
+  "creators": [{"name": "Collell, Leandro"}],
+  "description": "Código y dataset de tiempos de viaje estimados de la tesis de Maestría en Ciencia de Datos (ITBA).",
+  "upload_type": "software",
+  "license": "MIT",
+  "keywords": ["transporte público", "accesibilidad", "AMBA", "GTFS", "H3"]
+}

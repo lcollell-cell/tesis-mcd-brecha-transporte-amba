@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Si usa este material, cítelo así."
+title: "Brecha entre tiempo programado y observado en el transporte público del AMBA"
+authors:
+  - family-names: Collell
+    given-names: Leandro
+repository-code: "https://github.com/lcollell-cell/tesis-mcd-brecha-transporte-amba"
+license: MIT
